@@ -1,0 +1,38 @@
+{
+  "name": "vue-compiler-core",
+  "version": "0.1.0",
+  "description": "The vue component compile core support vue1 and vue2",
+  "main": "index.js",
+  "keywords": [
+    "vue",
+    "vue2",
+    "compiler",
+    "vue component"
+  ],
+  "scripts": {
+    "test": "mocha test/tasks/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuhy/vue-compiler-core.git"
+  },
+  "bugs": {
+    "url": "http://github.com/wuhy/vue-compiler-core/issues"
+  },
+  "author": "sparklewhy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "de-indent": "^1.0.2",
+    "hash-sum": "^1.0.2",
+    "lru-cache": "^4.0.2",
+    "object-assign": "^4.1.0",
+    "postcss": "^5.2.6",
+    "postcss-selector-parser": "^2.2.2",
+    "resolve": "^1.1.7",
+    "source-map": "^0.5.6"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
+  }
+}
