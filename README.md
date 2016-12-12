@@ -1,6 +1,6 @@
 vue-compiler-core
 ======
-[![Dependency Status](https://david-dm.org/wuhy/fisx-parser-vue.svg)](https://david-dm.org/wuhy/vue-compiler-core) [![devDependency Status](https://david-dm.org/wuhy/vue-compiler-core/dev-status.svg)](https://david-dm.org/wuhy/vue-compiler-core#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/vue-compiler-core.svg?style=flat)](https://npmjs.org/package/vue-compiler-core)
+[![Dependency Status](https://david-dm.org/wuhy/vue-compiler-core.svg)](https://david-dm.org/wuhy/vue-compiler-core) [![devDependency Status](https://david-dm.org/wuhy/vue-compiler-core/dev-status.svg)](https://david-dm.org/wuhy/vue-compiler-core#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/vue-compiler-core.svg?style=flat)](https://npmjs.org/package/vue-compiler-core)
 
 > The compiler core for compiling single vue component file. 
 
